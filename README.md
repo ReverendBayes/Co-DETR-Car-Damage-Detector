@@ -20,7 +20,7 @@ This is a deep learning detection training pipeline, and specifically:
 ---
 
 ## Component Table
-A Co-DETR Transformer-Based Learner Enhanced with CBAM Attention, Hybrid Loss, and Albumentation-Augmented Training for Vehicle Damage Detection:  
+A Co-DETR Transformer-Based Training Pipeline for a Learner Enhanced with CBAM Attention, Hybrid Loss, and Albumentation-Augmented Training for Vehicle Damage Detection:  
 
 | Component                | Implementation Details | Notes |
 |--------------------------|------------------------|-------|
