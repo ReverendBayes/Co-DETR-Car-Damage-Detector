@@ -201,7 +201,7 @@ This project uses the Car Damage Detection Dataset (CarDD) from USTC:
 Wang, Xinkuang; Li, Wenjing; Wu, Zhongcheng. CarDD: A New Dataset for Vision-Based Car Damage Detection. IEEE Transactions on Intelligent Transportation Systems, 2023. DOI: 10.1109/TITS.2023.3258480
 
 💻 Training Environment
-This repo is designed to run in Google Colab and requires the following dependencies:
+This repo is designed to run in Google Colab (though Paperspace is faster) and requires the following dependencies:
 torch>=1.13
 torchvision>=0.14
 timm
